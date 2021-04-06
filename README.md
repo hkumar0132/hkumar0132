@@ -4,7 +4,7 @@
 &#x270f; I'm currently pursuing my bachelor's degree <br/>
 &#x270f; You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/) <br/>
 &#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app) <br/>
-&#x270f; Some of my projects: 
+&#x270f; Some of my projects: <br/>
 &nbsp; 	&#x2712; [Socially](https://sosially.netlify.app/) <br/>
 &nbsp; 	&#x2712; [Vaccine distribution planner](http://14.97.25.74:9001/) <br/>
 &nbsp; 	&#x2712; [Online shop for images](https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing) <br/>
