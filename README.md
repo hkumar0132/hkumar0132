@@ -2,7 +2,7 @@
 
 &#x270f; My name is Himanshu and I build stuff that floats on the web <br/>
 &#x270f; I'm currently pursuing my bachelor's degree <br/>
-&#x270f; You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/) <br/>
+&#x270f; You can find me on [![LinkedIn][3.2]][3] <br/>
 &#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app) <br/>
 &#x270f; Some of my projects: <br/>
 &nbsp; 	&#x2712; [Socially](https://sosially.netlify.app/) <br/>
@@ -28,6 +28,28 @@ Apart from web development, I enjoy solving algorithmic problems and participati
 
 ## &#x1f4c8; GitHub Stats
 
+
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkumar0132&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/hkumar0132/github-readme-stats)
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[2]: https://github.com/hkumar0132
+[3]: https://www.linkedin.com/in/hkumar0132/
+
+
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
@@ -35,5 +57,3 @@ Apart from web development, I enjoy solving algorithmic problems and participati
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkumar0132&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/hkumar0132/github-readme-stats)
