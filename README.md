@@ -1,10 +1,14 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 &#x270f; My name is Himanshu and I build stuff that floats on the web <br/>
-&#x270f; I'm currently pursuing my bachelor's degree
-&#x270f; You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/)
-&#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app)
-&#x270f; Some of my projects: [Socially](https://sosially.netlify.app/), [Vaccine distribution planner](http://14.97.25.74:9001/), [Online shop for images](https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing), [COVID-19 tracker](https://covid.codestoresolutions.com/)
+&#x270f; I'm currently pursuing my bachelor's degree <br/>
+&#x270f; You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/) <br/>
+&#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app) <br/>
+&#x270f; Some of my projects: 
+&nbsp; 	&#x2712; [Socially](https://sosially.netlify.app/) <br/>
+&nbsp; 	&#x2712; [Vaccine distribution planner](http://14.97.25.74:9001/) <br/>
+&nbsp; 	&#x2712; [Online shop for images](https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing) <br/>
+&nbsp; 	&#x2712; [COVID-19 tracker](https://covid.codestoresolutions.com/)
 
 ## &#x270d; Problem solving
 
