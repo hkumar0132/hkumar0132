@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-- My name is Himanshu and I build stuff that floats on the web
+U+2734 My name is Himanshu and I build stuff that floats on the web
 - I'm currently pursuing my bachelor's degree
 - You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/)
 - You can checkout my [Personal portfolio](https://hkumar0132.netlify.app)
