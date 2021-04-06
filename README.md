@@ -1,8 +1,8 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 # Hello, folks! 
 
-My name is Himanshu and I build stuff that floats on the web. I'm currently pursuing my bachelor's degree. You can find me on [![LinkedIn][3.2]][3](https://linkedin.com/hkumar0132/).
+- My name is Himanshu and I build stuff that floats on the web. 
+- I'm currently pursuing my bachelor's degree. 
+- You can find me on [LinkedIn](https://linkedin.com/hkumar0132/).
 
 ## &#x270d; Problem solving
 
