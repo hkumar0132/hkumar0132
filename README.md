@@ -3,7 +3,7 @@
 - My name is Himanshu and I build stuff that floats on the web
 - I'm currently pursuing my bachelor's degree
 - You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/)
-- You can checkout my [Personal portfolio](https://hkumar0132.netlify.app)
+- Checkout my [Personal portfolio](https://hkumar0132.netlify.app)
 - Some of my projects: [Socially](https://sosially.netlify.app/), [Vaccine distribution planner](http://14.97.25.74:9001/), [Online shop for images](https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing), [COVID-19 tracker](https://covid.codestoresolutions.com/)
 
 ## &#x270d; Problem solving
@@ -11,15 +11,16 @@
 Apart from web development, I enjoy solving algorithmic problems and participating in coding competitions [binarysearch](https://binarysearch.io/@/hkumar0132/)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
