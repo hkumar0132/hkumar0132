@@ -1,8 +1,14 @@
 # Hello, folks! 
 
-- My name is Himanshu and I build stuff that floats on the web. 
-- I'm currently pursuing my bachelor's degree. 
-- You can find me on [LinkedIn](https://linkedin.com/hkumar0132/).
+- My name is Himanshu and I build stuff that floats on the web
+- I'm currently pursuing my bachelor's degree
+- You can find me on [LinkedIn](https://linkedin.com/in/hkumar0132/)
+- You can checkout my [Personal portfoli](https://hkumar0132.netlify.app)
+- Some of my projects:
+  A. Socially[https://sosially.netlify.app/]
+  B. Vaccine distribution planner[http://14.97.25.74:9001/]
+  C. Online shop for images[https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing]
+  D. COVID-19 tracker[https://covid.codestoresolutions.com/]
 
 ## &#x270d; Problem solving
 
