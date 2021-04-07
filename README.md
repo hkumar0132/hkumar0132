@@ -1,7 +1,7 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 &#x270f; My name is Himanshu and I build stuff that floats on the web <br/>
-&#x270f; I'm currently pursuing my bachelor's degree <br/>
+&#x270f; I'm currently pursuing my bachelor's in CS <br/>
 &#x270f; You can find me on [![LinkedIn][3.2]][3] <br/>
 &#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app) <br/>
 &#x270f; Some of my projects: <br/>
