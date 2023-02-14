@@ -1,18 +1,7 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-&#x270f; My name is Himanshu and I build stuff that floats on the web <br/>
-&#x270f; I'm currently pursuing my bachelor's in CS <br/>
+&#x270f; My name is Himanshu and I am a FullStack Developer <br/>
 &#x270f; You can find me on [![LinkedIn][3.2]][3] <br/>
-&#x270f; Checkout my [Personal portfolio](https://hkumar0132.netlify.app) <br/>
-&#x270f; Some of my projects: <br/>
-&nbsp; 	&#x2712; [Socially](https://sosially.netlify.app/) <br/>
-&nbsp; 	&#x2712; [Vaccine distribution planner](http://14.97.25.74:9001/) <br/>
-&nbsp; 	&#x2712; [Online shop for images](https://drive.google.com/file/d/16ZElYGEzeTj9Sc8DSZ-huk1ahz8o2xVX/view?usp=sharing) <br/>
-&nbsp; 	&#x2712; [COVID-19 tracker](https://covid.codestoresolutions.com/)
-
-## &#x270d; Problem solving
-
-Apart from web development, I enjoy solving algorithmic problems and participating in coding competitions [binarysearch](https://binarysearch.io/@/hkumar0132/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
